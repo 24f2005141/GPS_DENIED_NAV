@@ -1,0 +1,9 @@
+straight exit 0 endpoint 0.0 rmse 0.0 arrival True
+turn exit 0 endpoint 2.482534153247273e-16 rmse 1.4895204919483638e-16 arrival True
+multi exit 0 endpoint 4.0245584642661925e-16 rmse 5.013643244710527e-16 arrival True
+noise exit 0 endpoint 0.0670820393249946 rmse 0.04609772228646461 arrival True
+flow_dropout exit 0 endpoint 0.4499999999999984 rmse 0.4034775305355411 arrival False
+imu_dropout exit 0 endpoint 0.14999999999999947 rmse 0.11754058649540662 arrival False
+yaw_bias exit 0 endpoint 0.4563385275102956 rmse 0.20930300948209793 arrival False
+low_quality exit 0 endpoint 0.4499999999999984 rmse 0.4034775305355411 arrival False
+mixed_rates exit 0 endpoint 0.003925981575906774 rmse 0.003231298340982656 arrival True

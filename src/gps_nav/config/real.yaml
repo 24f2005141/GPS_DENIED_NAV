@@ -1,0 +1,40 @@
+hereflow:
+  ros__parameters:
+    serial_port: /dev/ttyUSB0
+    baud_rate: 19200
+    serial_timeout: 0.01
+    reconnect_interval: 2.0
+    sensor_stale_s: 0.6
+    byte_order: little  # MUST verify with captures; Holybro page and PX4 disagree
+flow_preprocess:
+  ros__parameters:
+    calibration_valid: false  # Set true only after measured calibration
+    flow_scale_x: 0.0        # metres per raw count at validated height
+    flow_scale_y: 0.0
+    invert_x: false
+    invert_y: false
+    movement_deadband: 0.0
+    smoothing_alpha: 1.0
+estimator:
+  ros__parameters:
+    stale_s: 0.6
+    future_stamp_tolerance_s: 0.05
+    minimum_quality: 30
+    rotation_offset_deg: 0.0  # sensor x axis to body forward; verify mounting
+    max_yaw_variance_rad2: 0.5
+    heading_reference_valid: false  # Set true only after yaw is tied to ENU East
+    heading_offset_deg: 0.0
+    expected_imu_frame: imu_link
+    publish_velocity: false  # Enable only after packet timing is validated
+    velocity_max_interval_s: 0.15
+navigator:
+  ros__parameters:
+    destination_tolerance_m: 0.25
+    arrival_stable_updates: 3
+    straight_threshold_deg: 15.0
+    back_threshold_deg: 135.0
+visualizer:
+  ros__parameters:
+    headless: true
+    output_file: trajectory_real.png
+    mode: real

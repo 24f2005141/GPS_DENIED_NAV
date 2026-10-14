@@ -1,0 +1,7 @@
+std_msgs/Header header
+bool distance_valid
+float64 distance_m
+float64 target_bearing_rad
+float64 heading_error_rad
+string recommendation
+bool destination_reached

@@ -1,0 +1,74 @@
+effective mode=interactive start=(0.000,0.000) goal=(3.000,0.000) speed=0.600m/s turn_rate=90.000deg/s dt=0.050s ROS_DOMAIN_ID=212
+[37;1m2026-10-14 05:50:06.258 [31;1m[[37;1mTRANSPORT_UDP[31;1m Error] [37mError creating socket: Operation not permitted[34;1m -> Function [36minit[m
+[37;1m2026-10-14 05:50:06.259 [31;1m[[37;1mRTPS_PARTICIPANT[31;1m Error] [37mUser transport failed to register.[34;1m -> Function [36mRTPSParticipantImpl[m
+interactive simulation stopped by user
+{
+  "mode": "interactive",
+  "path": null,
+  "ros_domain_id": 212,
+  "origin_geo": [
+    0.0,
+    0.0
+  ],
+  "initial_goal_geo": [
+    0.0,
+    2.6949458515446167e-05
+  ],
+  "initial_goal_m": [
+    2.999999999093807,
+    0.0
+  ],
+  "goal_geo": [
+    0.0,
+    2.6949458515446167e-05
+  ],
+  "goal_m": [
+    2.999999999093807,
+    0.0
+  ],
+  "completed": false,
+  "completion_reason": "user stopped",
+  "final_sample_processed": true,
+  "plot_history_matches_metrics": true,
+  "plotted_trajectory_samples": 18,
+  "truth_m": [
+    0.0,
+    0.0
+  ],
+  "estimated_m": [
+    0.0,
+    0.0
+  ],
+  "destination_reached": false,
+  "last_recommendation": "GO STRAIGHT",
+  "last_status": "ok",
+  "plot": "/home/mirtt/gps_denied_navigation_v2/reports/mode_fix_interactive_close/interactive.png",
+  "velocity_samples": 17,
+  "last_velocity_enu_m_s": [
+    0.0,
+    0.0
+  ],
+  "straight_line_distance_m": 2.999999999093807,
+  "estimated_path_length_m": 0.0,
+  "achieved_displacement_m": 0.0,
+  "unobserved_path_gaps": 0,
+  "path_over_achieved_displacement": null,
+  "path_length_ratio": null,
+  "first_draw_before_truth": true,
+  "live_draws_before_completion": 11,
+  "live_max_poses_before_completion": 18,
+  "initial_frame": null,
+  "in_progress_frame": null,
+  "in_progress_frame_poses": null,
+  "endpoint_error_m": 0.0,
+  "goal_error_m": 2.999999999093807,
+  "trajectory_rmse_m": 0.0,
+  "trajectory_samples": 18
+}
+{
+  "mode": "interactive",
+  "completed": false,
+  "completion_reason": "user stopped",
+  "trajectory_samples": 18,
+  "plot_history_matches_metrics": true
+}

@@ -1,0 +1,417 @@
+[INFO] [launch]: All log files can be found below /home/mirtt/.ros/log/2026-10-14-14-18-14-925553-MIR-30
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [waypoint-1]: process started with pid [35]
+[INFO] [hereflow-2]: process started with pid [37]
+[INFO] [preprocess-3]: process started with pid [39]
+[INFO] [estimator-4]: process started with pid [41]
+[INFO] [navigator-5]: process started with pid [43]
+[INFO] [visualizer-6]: process started with pid [45]
+[INFO] [robot_supervisor-7]: process started with pid [47]
+[INFO] [robot_transport-8]: process started with pid [49]
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_transport-8] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] [WARN] [1791987496.248269533] [hereflow]: serial unavailable: open: [Errno 2] No such file or directory: '/dev/does-not-exist'
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[robot_supervisor-7] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+[INFO] [robot_transport-8]: sending signal 'SIGINT' to process[robot_transport-8]
+[INFO] [robot_supervisor-7]: sending signal 'SIGINT' to process[robot_supervisor-7]
+[INFO] [visualizer-6]: sending signal 'SIGINT' to process[visualizer-6]
+[INFO] [navigator-5]: sending signal 'SIGINT' to process[navigator-5]
+[INFO] [estimator-4]: sending signal 'SIGINT' to process[estimator-4]
+[INFO] [preprocess-3]: sending signal 'SIGINT' to process[preprocess-3]
+[INFO] [hereflow-2]: sending signal 'SIGINT' to process[hereflow-2]
+[INFO] [waypoint-1]: sending signal 'SIGINT' to process[waypoint-1]
+[robot_transport-8] Traceback (most recent call last):
+[robot_transport-8]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/robot_transport", line 33, in <module>
+[robot_transport-8]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'robot_transport')())
+[robot_transport-8]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[robot_transport-8]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/robot_transport_node.py", line 59, in main
+[robot_transport-8]     finally: node.destroy_node(); rclpy.try_shutdown()
+[robot_transport-8]              ^^^^^^^^^^^^^^^^^^^
+[robot_transport-8]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/robot_transport_node.py", line 52, in destroy_node
+[robot_transport-8]     super().destroy_node()
+[robot_transport-8]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1962, in destroy_node
+[robot_transport-8]     self.destroy_service(self._services[0])
+[robot_transport-8]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1886, in destroy_service
+[robot_transport-8]     service.destroy()
+[robot_transport-8]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/service.py", line 123, in destroy
+[robot_transport-8]     self.__service.destroy_when_not_in_use()
+[robot_transport-8] KeyboardInterrupt
+[visualizer-6] Traceback (most recent call last):
+[visualizer-6]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/visualizer", line 33, in <module>
+[visualizer-6]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'visualizer')())
+[visualizer-6]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/visualizer_node.py", line 148, in main
+[visualizer-6]     finally: node.destroy_node(); rclpy.try_shutdown()
+[visualizer-6]              ^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/visualizer_node.py", line 137, in destroy_node
+[visualizer-6]     self.draw(save=True)
+[visualizer-6]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/visualizer_node.py", line 93, in draw
+[visualizer-6]     if goal: ax.scatter([goal[0]],[goal[1]],marker='*',s=160,label='Destination',color='red')
+[visualizer-6]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/_api/deprecation.py", line 477, in wrapper
+[robot_supervisor-7] Traceback (most recent call last):
+[robot_supervisor-7]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/robot_supervisor", line 33, in <module>
+[robot_supervisor-7]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'robot_supervisor')())
+[robot_supervisor-7]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[robot_supervisor-7]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/robot_supervisor_node.py", line 121, in main
+[robot_supervisor-7]     finally: node.destroy_node(); rclpy.try_shutdown()
+[robot_supervisor-7]              ^^^^^^^^^^^^^^^^^^^
+[robot_supervisor-7]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/robot_supervisor_node.py", line 114, in destroy_node
+[robot_supervisor-7]     super().destroy_node()
+[robot_supervisor-7]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1962, in destroy_node
+[robot_supervisor-7]     self.destroy_service(self._services[0])
+[robot_supervisor-7]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1886, in destroy_service
+[robot_supervisor-7]     service.destroy()
+[ERROR] [preprocess-3]: process has died [pid 39, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/preprocess --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/real.yaml'].
+[robot_supervisor-7]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/service.py", line 123, in destroy
+[robot_supervisor-7]     self.__service.destroy_when_not_in_use()
+[robot_supervisor-7] KeyboardInterrupt
+[visualizer-6]     return func(*args, **kwargs)
+[visualizer-6]            ^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/__init__.py", line 1531, in inner
+[hereflow-2] Traceback (most recent call last):
+[hereflow-2]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/hereflow", line 33, in <module>
+[hereflow-2]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'hereflow')())
+[hereflow-2]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[hereflow-2]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/hereflow_node.py", line 61, in main
+[hereflow-2]     finally: node.destroy_node(); rclpy.try_shutdown()
+[hereflow-2]              ^^^^^^^^^^^^^^^^^^^
+[hereflow-2]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/hereflow_node.py", line 54, in destroy_node
+[hereflow-2]     super().destroy_node()
+[hereflow-2]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1968, in destroy_node
+[hereflow-2]     self.__node.destroy_when_not_in_use()
+[hereflow-2] KeyboardInterrupt
+[navigator-5] Traceback (most recent call last):
+[navigator-5]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/navigator", line 33, in <module>
+[navigator-5]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'navigator')())
+[navigator-5]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[navigator-5]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/navigator_node.py", line 86, in main
+[estimator-4] Traceback (most recent call last):
+[estimator-4]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/estimator", line 33, in <module>
+[estimator-4]     sys.exit(load_entry_point('gps_nav==0.2.0', 'console_scripts', 'estimator')())
+[estimator-4]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[estimator-4]   File "/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/python3.12/site-packages/gps_nav/estimator_node.py", line 143, in main
+[estimator-4]     finally: node.destroy_node(); rclpy.try_shutdown()
+[estimator-4]              ^^^^^^^^^^^^^^^^^^^
+[estimator-4]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1968, in destroy_node
+[estimator-4]     self.__node.destroy_when_not_in_use()
+[estimator-4] KeyboardInterrupt
+[navigator-5]     finally: node.destroy_node(); rclpy.try_shutdown()
+[navigator-5]              ^^^^^^^^^^^^^^^^^^^
+[navigator-5]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1962, in destroy_node
+[navigator-5]     self.destroy_service(self._services[0])
+[navigator-5]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/node.py", line 1886, in destroy_service
+[navigator-5]     service.destroy()
+[navigator-5]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/rclpy/service.py", line 123, in destroy
+[navigator-5]     self.__service.destroy_when_not_in_use()
+[navigator-5] KeyboardInterrupt
+[visualizer-6]     return func(
+[visualizer-6]            ^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/axes/_axes.py", line 5466, in scatter
+[ERROR] [waypoint-1]: process has died [pid 35, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/waypoint --ros-args --params-file /tmp/launch_params_f_ybeo_l'].
+[visualizer-6]     self.add_collection(collection)
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/axes/_base.py", line 2435, in add_collection
+[visualizer-6]     collection.set_clip_path(self.patch)
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/artist.py", line 857, in set_clip_path
+[visualizer-6]     path.get_transform())
+[visualizer-6]     ^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/patches.py", line 315, in get_transform
+[visualizer-6]     return self.get_patch_transform() + artist.Artist.get_transform(self)
+[visualizer-6]            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/patches.py", line 914, in get_patch_transform
+[visualizer-6]     bbox = self.get_bbox()
+[visualizer-6]            ^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/patches.py", line 1045, in get_bbox
+[visualizer-6]     return transforms.Bbox.from_extents(*self._convert_units())
+[visualizer-6]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/transforms.py", line 844, in from_extents
+[visualizer-6]     bbox = Bbox(np.asarray(args, dtype=float).reshape((2, 2)))
+[visualizer-6]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[visualizer-6]   File "/home/mirtt/micromamba/envs/ros2-jazzy/lib/python3.12/site-packages/matplotlib/transforms.py", line 791, in __init__
+[visualizer-6]     self._points_orig = self._points.copy()
+[visualizer-6]                         ^^^^^^^^^^^^^^^^^^^
+[visualizer-6] KeyboardInterrupt
+[ERROR] [hereflow-2]: process has died [pid 37, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/hereflow --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/real.yaml --params-file /tmp/launch_params_ahvcu1qe'].
+[ERROR] [robot_transport-8]: process has died [pid 49, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/robot_transport --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/robot_real.yaml --params-file /tmp/launch_params_i69k8psc'].
+[ERROR] [estimator-4]: process has died [pid 41, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/estimator --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/real.yaml'].
+[ERROR] [robot_supervisor-7]: process has died [pid 47, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/robot_supervisor --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/robot_real.yaml --params-file /tmp/launch_params_tn0xfxtd'].
+[ERROR] [navigator-5]: process has died [pid 43, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/navigator --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/real.yaml'].
+[ERROR] [visualizer-6]: process[visualizer-6] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+[ERROR] [visualizer-6]: process has died [pid 45, exit code -2, cmd '/home/mirtt/gps_denied_navigation_v2/install/gps_nav/lib/gps_nav/visualizer --ros-args --params-file /home/mirtt/gps_denied_navigation_v2/install/gps_nav/share/gps_nav/config/real.yaml'].

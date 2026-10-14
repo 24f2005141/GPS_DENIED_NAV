@@ -1,0 +1,16 @@
+robot_supervisor:
+  ros__parameters:
+    allow_physical_control: true  # Endpoint is simulated; SetBool enable still required.
+    max_speed_permille: 150
+    forward_speed_permille: 80
+    turn_speed_permille: 60
+    allow_reverse: false
+    input_stale_s: 0.5
+    ack_timeout_s: 0.5
+    command_period_s: 0.1
+robot_sim_endpoint:
+  ros__parameters:
+    watchdog_s: 0.5
+    max_speed_permille: 150
+    max_linear_m_s: 1.125
+    max_turn_rad_s: 3.92699081699

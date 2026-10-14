@@ -1,0 +1,226 @@
+[INFO] [launch]: All log files can be found below /home/mirtt/.ros/log/2026-10-13-18-50-50-647339-MIR-160
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [waypoint-1]: process started with pid [163]
+[INFO] [hereflow-2]: process started with pid [165]
+[INFO] [preprocess-3]: process started with pid [167]
+[INFO] [estimator-4]: process started with pid [169]
+[INFO] [navigator-5]: process started with pid [171]
+[INFO] [visualizer-6]: process started with pid [173]
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[preprocess-3] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[hereflow-2] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[navigator-5] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[hereflow-2] [WARN] [1791917452.806076834] [hereflow]: serial unavailable: [Errno 2] No such file or directory: '/dev/does-not-exist'
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[waypoint-1] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[estimator-4] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[visualizer-6] getifaddrs: Operation not permitted
+[hereflow-2] [WARN] [1791917454.720731354] [hereflow]: serial unavailable: [Errno 2] No such file or directory: '/dev/does-not-exist'
+[WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+[INFO] [visualizer-6]: sending signal 'SIGINT' to process[visualizer-6]
+[INFO] [navigator-5]: sending signal 'SIGINT' to process[navigator-5]
+[INFO] [estimator-4]: sending signal 'SIGINT' to process[estimator-4]
+[INFO] [preprocess-3]: sending signal 'SIGINT' to process[preprocess-3]
+[INFO] [hereflow-2]: sending signal 'SIGINT' to process[hereflow-2]
+[INFO] [waypoint-1]: sending signal 'SIGINT' to process[waypoint-1]
+[INFO] [estimator-4]: process has finished cleanly [pid 169]
+[INFO] [hereflow-2]: process has finished cleanly [pid 165]
+[INFO] [navigator-5]: process has finished cleanly [pid 171]
+[INFO] [preprocess-3]: process has finished cleanly [pid 167]
+[INFO] [waypoint-1]: process has finished cleanly [pid 163]
+[ERROR] [visualizer-6]: process[visualizer-6] failed to terminate '5' seconds after receiving 'SIGINT', escalating to 'SIGTERM'
+[INFO] [visualizer-6]: process has finished cleanly [pid 173]

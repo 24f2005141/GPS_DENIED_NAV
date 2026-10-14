@@ -1,0 +1,63 @@
+{
+  "mode": "scripted",
+  "path": "multi",
+  "ros_domain_id": 190,
+  "origin_geo": [
+    0.0,
+    0.0
+  ],
+  "initial_goal_geo": [
+    0.0,
+    2.6949458515446167e-05
+  ],
+  "initial_goal_m": [
+    2.999999999093807,
+    0.0
+  ],
+  "goal_geo": [
+    0.0,
+    2.6949458515446167e-05
+  ],
+  "goal_m": [
+    2.999999999093807,
+    0.0
+  ],
+  "completed": true,
+  "completion_reason": "scripted path complete",
+  "final_sample_processed": true,
+  "plot_history_matches_metrics": true,
+  "plotted_trajectory_samples": 280,
+  "truth_m": [
+    2.999999999999993,
+    -8.576472865229334e-15
+  ],
+  "estimated_m": [
+    2.999999999999993,
+    -8.978928711655954e-15
+  ],
+  "destination_reached": true,
+  "last_recommendation": "SENSOR DEGRADED",
+  "last_status": "IMU stale",
+  "plot": "/home/mirtt/gps_denied_navigation_v2/reports/mode_fix_live_multi_repeat/multi.png",
+  "velocity_samples": 279,
+  "last_velocity_enu_m_s": [
+    0.0,
+    -1.0024722989703534
+  ],
+  "straight_line_distance_m": 2.999999999093807,
+  "estimated_path_length_m": 8.999999999999993,
+  "achieved_displacement_m": 2.999999999999993,
+  "unobserved_path_gaps": 0,
+  "path_over_achieved_displacement": null,
+  "path_length_ratio": null,
+  "first_draw_before_truth": true,
+  "live_draws_before_completion": 31,
+  "live_max_poses_before_completion": 270,
+  "initial_frame": "/home/mirtt/gps_denied_navigation_v2/reports/mode_fix_live_multi_repeat/multi_initial.png",
+  "in_progress_frame": "/home/mirtt/gps_denied_navigation_v2/reports/mode_fix_live_multi_repeat/multi_in_progress.png",
+  "in_progress_frame_poses": 19,
+  "endpoint_error_m": 4.0245584642661925e-16,
+  "goal_error_m": 9.061857931148192e-10,
+  "trajectory_rmse_m": 5.013643244710527e-16,
+  "trajectory_samples": 280
+}

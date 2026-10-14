@@ -1,0 +1,11 @@
+{
+  "backend": "QtAgg",
+  "history_samples": 280,
+  "plotted_samples": 280,
+  "final_point": [
+    2.999999999999993,
+    -8.576472865229334e-15
+  ],
+  "arrival_event": true,
+  "saved_png_bytes": 45612
+}

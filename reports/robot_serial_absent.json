@@ -1,0 +1,17 @@
+{
+  "port": "/dev/ttyACM0",
+  "exists": false,
+  "character_device": false,
+  "read_access_hint": false,
+  "stat_error": "[Errno 2] No such file or directory: '/dev/ttyACM0'",
+  "baud_rate": 115200,
+  "duration_s": 0.15,
+  "connected_at_end": false,
+  "open_errors": 1,
+  "disconnects": 0,
+  "invalid_ack_frames": 0,
+  "acknowledgements": [],
+  "reason": "[Errno 2] No such file or directory: '/dev/ttyACM0'",
+  "movement_commands_sent": 0,
+  "diagnostic_mode": "STOP only; no ARM, RESET, or movement"
+}

@@ -1,0 +1,34 @@
+simulator:
+  ros__parameters:
+    path: straight
+    seed: 42
+    dt: 0.05
+    flow_hz: 20.0
+    imu_hz: 20.0
+    flow_scale_m_per_count: 0.01
+    noise_m: 0.0
+    yaw_bias_rad_s: 0.0
+    flow_dropout_start: -1.0
+    flow_dropout_end: -1.0
+    imu_dropout_start: -1.0
+    imu_dropout_end: -1.0
+    low_quality_start: -1.0
+    low_quality_end: -1.0
+    startup_delay_s: 2.0
+flow_preprocess:
+  ros__parameters:
+    calibration_valid: true  # simulation truth model only
+    flow_scale_x: 0.01
+    flow_scale_y: 0.01
+estimator:
+  ros__parameters:
+    stale_s: 0.6
+    future_stamp_tolerance_s: 0.05
+    minimum_quality: 30
+    rotation_offset_deg: 0.0
+    max_yaw_variance_rad2: 0.5
+    heading_reference_valid: true
+    heading_offset_deg: 0.0
+    expected_imu_frame: imu_link
+    publish_velocity: true
+    velocity_max_interval_s: 0.15

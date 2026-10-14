@@ -1,0 +1,314 @@
+{
+  "north_aligned": {
+    "exit_code": 0,
+    "requested_origin": [
+      13.0827,
+      80.2707
+    ],
+    "requested_offset_m": [
+      0.0,
+      3.0
+    ],
+    "requested_heading_deg": 90.0,
+    "mode": "goal",
+    "path": null,
+    "ros_domain_id": 105,
+    "origin_geo": [
+      13.0827,
+      80.2707
+    ],
+    "initial_heading_deg": 90.0,
+    "speed_m_s": 0.6,
+    "turn_rate_deg_s": 90.0,
+    "simulation_dt_s": 0.05,
+    "max_duration_s": 12.0,
+    "initial_goal_geo": [
+      13.082727117126408,
+      80.27070000000003
+    ],
+    "initial_goal_m": [
+      4.201434117279135e-09,
+      3.000000003136074
+    ],
+    "goal_geo": [
+      13.082727117126437,
+      80.27070000000003
+    ],
+    "goal_m": [
+      4.201434117279135e-09,
+      3.000000003136074
+    ],
+    "completed": true,
+    "completion_reason": "destination reached",
+    "final_sample_processed": true,
+    "plot_history_matches_metrics": true,
+    "plotted_trajectory_samples": 95,
+    "truth_m": [
+      2.4008195559721463e-09,
+      2.8199999999999963
+    ],
+    "estimated_m": [
+      2.4008195559721463e-09,
+      2.8199999999999963
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/user_coords_final_geographic/north_aligned/goal.png",
+    "velocity_samples": 94,
+    "last_velocity_enu_m_s": [
+      5.952805866799722e-09,
+      0.5950774178292701
+    ],
+    "straight_line_distance_m": 3.000000003136074,
+    "estimated_path_length_m": 2.8199999999999963,
+    "achieved_displacement_m": 2.8199999999999963,
+    "unobserved_path_gaps": 0,
+    "path_over_achieved_displacement": 1.0,
+    "path_length_ratio": 0.9399999990173622,
+    "first_draw_before_truth": null,
+    "live_draws_before_completion": 0,
+    "live_max_poses_before_completion": 0,
+    "initial_frame": null,
+    "in_progress_frame": null,
+    "in_progress_frame_poses": null,
+    "endpoint_error_m": 0.0,
+    "goal_error_m": 0.18000000313607778,
+    "trajectory_rmse_m": 0.0,
+    "trajectory_samples": 95
+  },
+  "north_initial_east": {
+    "exit_code": 0,
+    "requested_origin": [
+      13.0827,
+      80.2707
+    ],
+    "requested_offset_m": [
+      0.0,
+      3.0
+    ],
+    "requested_heading_deg": 0.0,
+    "mode": "goal",
+    "path": null,
+    "ros_domain_id": 194,
+    "origin_geo": [
+      13.0827,
+      80.2707
+    ],
+    "initial_heading_deg": 0.0,
+    "speed_m_s": 0.6,
+    "turn_rate_deg_s": 90.0,
+    "simulation_dt_s": 0.05,
+    "max_duration_s": 12.0,
+    "initial_goal_geo": [
+      13.082727117126408,
+      80.27070000000003
+    ],
+    "initial_goal_m": [
+      4.201434117279135e-09,
+      3.000000003136074
+    ],
+    "goal_geo": [
+      13.082727117126437,
+      80.27070000000003
+    ],
+    "goal_m": [
+      4.201434117279135e-09,
+      3.000000003136074
+    ],
+    "completed": true,
+    "completion_reason": "destination reached",
+    "final_sample_processed": true,
+    "plot_history_matches_metrics": true,
+    "plotted_trajectory_samples": 114,
+    "truth_m": [
+      3.9493480081054225e-09,
+      2.8199999999999963
+    ],
+    "estimated_m": [
+      3.9493480081054225e-09,
+      2.8199999999999963
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/user_coords_final_geographic/north_initial_east/goal.png",
+    "velocity_samples": 113,
+    "last_velocity_enu_m_s": [
+      8.301147818538051e-10,
+      0.5927367454130023
+    ],
+    "straight_line_distance_m": 3.000000003136074,
+    "estimated_path_length_m": 2.8199999999999963,
+    "achieved_displacement_m": 2.8199999999999963,
+    "unobserved_path_gaps": 0,
+    "path_over_achieved_displacement": 1.0,
+    "path_length_ratio": 0.9399999990173622,
+    "first_draw_before_truth": null,
+    "live_draws_before_completion": 0,
+    "live_max_poses_before_completion": 0,
+    "initial_frame": null,
+    "in_progress_frame": null,
+    "in_progress_frame_poses": null,
+    "endpoint_error_m": 0.0,
+    "goal_error_m": 0.18000000313607778,
+    "trajectory_rmse_m": 0.0,
+    "trajectory_samples": 114
+  },
+  "northeast_initial_west": {
+    "exit_code": 0,
+    "requested_origin": [
+      37.0,
+      -122.0
+    ],
+    "requested_offset_m": [
+      2.12,
+      2.12
+    ],
+    "requested_heading_deg": 180.0,
+    "mode": "goal",
+    "path": null,
+    "ros_domain_id": 161,
+    "origin_geo": [
+      37.0,
+      -122.0
+    ],
+    "initial_heading_deg": 180.0,
+    "speed_m_s": 0.6,
+    "turn_rate_deg_s": 90.0,
+    "simulation_dt_s": 0.05,
+    "max_duration_s": 12.0,
+    "initial_goal_geo": [
+      37.00001910294684,
+      -121.99997618289872
+    ],
+    "initial_goal_m": [
+      2.1199994703213596,
+      2.120000268431437
+    ],
+    "goal_geo": [
+      37.00001910294926,
+      -121.99997618290467
+    ],
+    "goal_m": [
+      2.1199994703213596,
+      2.120000268431437
+    ],
+    "completed": true,
+    "completion_reason": "destination reached",
+    "final_sample_processed": true,
+    "plot_history_matches_metrics": true,
+    "plotted_trajectory_samples": 124,
+    "truth_m": [
+      1.9940407476006512,
+      1.9940414982914068
+    ],
+    "estimated_m": [
+      1.9940407476006512,
+      1.9940414982914068
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/user_coords_final_geographic/northeast_initial_west/goal.png",
+    "velocity_samples": 123,
+    "last_velocity_enu_m_s": [
+      0.4374215600973806,
+      0.4374217247722095
+    ],
+    "straight_line_distance_m": 2.9981325675013455,
+    "estimated_path_length_m": 2.820000000000007,
+    "achieved_displacement_m": 2.8200000000000003,
+    "unobserved_path_gaps": 0,
+    "path_over_achieved_displacement": 1.0000000000000024,
+    "path_length_ratio": 0.9405854933059898,
+    "first_draw_before_truth": null,
+    "live_draws_before_completion": 0,
+    "live_max_poses_before_completion": 0,
+    "initial_frame": null,
+    "in_progress_frame": null,
+    "in_progress_frame_poses": null,
+    "endpoint_error_m": 0.0,
+    "goal_error_m": 0.17813256750134526,
+    "trajectory_rmse_m": 0.0,
+    "trajectory_samples": 124
+  },
+  "west_initial_north": {
+    "exit_code": 0,
+    "requested_origin": [
+      0.5,
+      30.0
+    ],
+    "requested_offset_m": [
+      -3.0,
+      0.0
+    ],
+    "requested_heading_deg": 90.0,
+    "mode": "goal",
+    "path": null,
+    "ros_domain_id": 184,
+    "origin_geo": [
+      0.5,
+      30.0
+    ],
+    "initial_heading_deg": 90.0,
+    "speed_m_s": 0.6,
+    "turn_rate_deg_s": 90.0,
+    "simulation_dt_s": 0.05,
+    "max_duration_s": 12.0,
+    "initial_goal_geo": [
+      0.5,
+      29.99997304952217
+    ],
+    "initial_goal_m": [
+      -2.999999997607779,
+      6.162951465132904e-09
+    ],
+    "goal_geo": [
+      0.5000000000000557,
+      29.99997304952217
+    ],
+    "goal_m": [
+      -2.999999997607779,
+      6.162951465132904e-09
+    ],
+    "completed": true,
+    "completion_reason": "destination reached",
+    "final_sample_processed": true,
+    "plot_history_matches_metrics": true,
+    "plotted_trajectory_samples": 114,
+    "truth_m": [
+      -2.8199999999999963,
+      5.793175991213302e-09
+    ],
+    "estimated_m": [
+      -2.8199999999999963,
+      5.793175991213302e-09
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/user_coords_final_geographic/west_initial_north/goal.png",
+    "velocity_samples": 113,
+    "last_velocity_enu_m_s": [
+      -0.6164709571215763,
+      1.2664272156301545e-09
+    ],
+    "straight_line_distance_m": 2.999999997607779,
+    "estimated_path_length_m": 2.8199999999999963,
+    "achieved_displacement_m": 2.8199999999999963,
+    "unobserved_path_gaps": 0,
+    "path_over_achieved_displacement": 1.0,
+    "path_length_ratio": 0.9400000007495614,
+    "first_draw_before_truth": null,
+    "live_draws_before_completion": 0,
+    "live_max_poses_before_completion": 0,
+    "initial_frame": null,
+    "in_progress_frame": null,
+    "in_progress_frame_poses": null,
+    "endpoint_error_m": 0.0,
+    "goal_error_m": 0.17999999760778262,
+    "trajectory_rmse_m": 0.0,
+    "trajectory_samples": 114
+  }
+}

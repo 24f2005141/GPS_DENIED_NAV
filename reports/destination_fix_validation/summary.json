@@ -1,0 +1,290 @@
+{
+  "straight": {
+    "exit_code": 0,
+    "expected_arrival": true,
+    "path": "straight",
+    "ros_domain_id": 165,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/straight/straight.png",
+    "velocity_samples": 59,
+    "last_velocity_enu_m_s": [
+      1.0031484236356556,
+      0.0
+    ],
+    "endpoint_error_m": 0.0,
+    "trajectory_rmse_m": 0.0,
+    "trajectory_samples": 60
+  },
+  "turn": {
+    "exit_code": 0,
+    "expected_arrival": true,
+    "path": "turn",
+    "ros_domain_id": 168,
+    "goal_m": [
+      1.0,
+      1.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      0.9999999999999978,
+      1.0
+    ],
+    "estimated_m": [
+      0.9999999999999979,
+      1.0000000000000002
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/turn/turn.png",
+    "velocity_samples": 59,
+    "last_velocity_enu_m_s": [
+      -2.2469337314540865e-15,
+      1.011928991570281
+    ],
+    "endpoint_error_m": 2.482534153247273e-16,
+    "trajectory_rmse_m": 1.4895204919483638e-16,
+    "trajectory_samples": 60
+  },
+  "multi": {
+    "exit_code": 0,
+    "expected_arrival": true,
+    "path": "multi",
+    "ros_domain_id": 129,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.999999999999993,
+      -8.576472865229334e-15
+    ],
+    "estimated_m": [
+      2.999999999999993,
+      -8.978928711655954e-15
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/multi/multi.png",
+    "velocity_samples": 278,
+    "last_velocity_enu_m_s": [
+      0.0,
+      -0.9972476627958953
+    ],
+    "endpoint_error_m": 4.0245584642661925e-16,
+    "trajectory_rmse_m": 5.013643244710527e-16,
+    "trajectory_samples": 280
+  },
+  "noise": {
+    "exit_code": 0,
+    "expected_arrival": true,
+    "path": "straight",
+    "ros_domain_id": 143,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      3.0299999999999994,
+      -0.060000000000000005
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/noise/straight.png",
+    "velocity_samples": 59,
+    "last_velocity_enu_m_s": [
+      0.9974753384130935,
+      0.0
+    ],
+    "endpoint_error_m": 0.0670820393249946,
+    "trajectory_rmse_m": 0.04609772228646461,
+    "trajectory_samples": 60
+  },
+  "flow_dropout": {
+    "exit_code": 0,
+    "expected_arrival": false,
+    "path": "straight",
+    "ros_domain_id": 172,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      2.549999999999999,
+      0.0
+    ],
+    "destination_reached": false,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/flow_dropout/straight.png",
+    "velocity_samples": 49,
+    "last_velocity_enu_m_s": [
+      0.9954205430036038,
+      0.0
+    ],
+    "endpoint_error_m": 0.4499999999999984,
+    "trajectory_rmse_m": 0.4034775305355411,
+    "trajectory_samples": 51
+  },
+  "imu_dropout": {
+    "exit_code": 0,
+    "expected_arrival": false,
+    "path": "straight",
+    "ros_domain_id": 107,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      2.849999999999998,
+      0.0
+    ],
+    "destination_reached": false,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/imu_dropout/straight.png",
+    "velocity_samples": 55,
+    "last_velocity_enu_m_s": [
+      0.9224332526940807,
+      0.0
+    ],
+    "endpoint_error_m": 0.14999999999999947,
+    "trajectory_rmse_m": 0.11754058649540662,
+    "trajectory_samples": 57
+  },
+  "yaw_bias": {
+    "exit_code": 0,
+    "expected_arrival": false,
+    "path": "straight",
+    "ros_domain_id": 131,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      2.9540793221679977,
+      0.4540221834202757
+    ],
+    "destination_reached": false,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/yaw_bias/straight.png",
+    "velocity_samples": 59,
+    "last_velocity_enu_m_s": [
+      0.9578540422074278,
+      0.2962989770898631
+    ],
+    "endpoint_error_m": 0.4563385275102956,
+    "trajectory_rmse_m": 0.20930300948209793,
+    "trajectory_samples": 60
+  },
+  "low_quality": {
+    "exit_code": 0,
+    "expected_arrival": false,
+    "path": "straight",
+    "ros_domain_id": 188,
+    "goal_m": [
+      3.0,
+      0.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      2.9999999999999973,
+      0.0
+    ],
+    "estimated_m": [
+      2.549999999999999,
+      0.0
+    ],
+    "destination_reached": false,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/low_quality/straight.png",
+    "velocity_samples": 49,
+    "last_velocity_enu_m_s": [
+      1.0071373343770524,
+      0.0
+    ],
+    "endpoint_error_m": 0.4499999999999984,
+    "trajectory_rmse_m": 0.4034775305355411,
+    "trajectory_samples": 51
+  },
+  "mixed_rates": {
+    "exit_code": 0,
+    "expected_arrival": true,
+    "path": "turn",
+    "ros_domain_id": 180,
+    "goal_m": [
+      1.0,
+      1.0
+    ],
+    "completed": true,
+    "final_sample_processed": true,
+    "truth_m": [
+      0.9999999999999978,
+      1.0
+    ],
+    "estimated_m": [
+      0.999845866686654,
+      1.0039229547863922
+    ],
+    "destination_reached": true,
+    "last_recommendation": "SENSOR DEGRADED",
+    "last_status": "IMU stale",
+    "plot": "/home/mirtt/gps_denied_navigation_v2/reports/destination_fix_validation/mixed_rates/turn.png",
+    "velocity_samples": 30,
+    "last_velocity_enu_m_s": [
+      -2.2130192012495986e-15,
+      0.9966552450111453
+    ],
+    "endpoint_error_m": 0.003925981575906774,
+    "trajectory_rmse_m": 0.003231298340982656,
+    "trajectory_samples": 31
+  }
+}

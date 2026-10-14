@@ -1,0 +1,11 @@
+std_msgs/Header header
+bool enabled
+bool arming
+bool fault_latched
+bool arrival_latched
+bool link_connected
+bool acknowledgement_fresh
+string reason
+string last_issued_command
+uint32 last_ack_sequence
+string last_ack_command

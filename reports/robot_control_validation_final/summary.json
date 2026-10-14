@@ -1,0 +1,109 @@
+{
+  "ros_domain_id": 135,
+  "startup_stopped": true,
+  "stationary_start": [
+    0.0,
+    0.0
+  ],
+  "stationary_end": [
+    0.0,
+    0.0
+  ],
+  "arm_response": "arming microcontroller",
+  "before_disconnect": [
+    0.6000000000000003,
+    0.0
+  ],
+  "disconnect_response": "simulated link disconnected",
+  "stopped_at": [
+    0.6300000000000003,
+    0.0
+  ],
+  "stopped_after": [
+    0.6300000000000003,
+    0.0
+  ],
+  "reconnect_response": "simulated link connected",
+  "reset_response": "reset requested; awaiting microcontroller ACK",
+  "rearm_response": "arming microcontroller",
+  "final_truth_m": [
+    2.879999999999996,
+    0.0
+  ],
+  "final_estimate_m": [
+    2.879999999999996,
+    0.0
+  ],
+  "estimated_pose_samples": 140,
+  "arrival_latched": true,
+  "final_command": "STOP",
+  "command_counts": {
+    "STOP": 38,
+    "ARM": 2,
+    "RESET": 1,
+    "FORWARD": 48,
+    "LEFT": 0,
+    "RIGHT": 0
+  },
+  "accepted_acks": 81,
+  "rejected_acks": 0,
+  "example_commands": [
+    {
+      "sequence": 1,
+      "command": "STOP",
+      "speed_permille": 0
+    },
+    {
+      "sequence": 2,
+      "command": "STOP",
+      "speed_permille": 0
+    },
+    {
+      "sequence": 3,
+      "command": "STOP",
+      "speed_permille": 0
+    },
+    {
+      "sequence": 4,
+      "command": "STOP",
+      "speed_permille": 0
+    },
+    {
+      "sequence": 5,
+      "command": "STOP",
+      "speed_permille": 0
+    }
+  ],
+  "example_acks": [
+    {
+      "sequence": 1,
+      "accepted": true,
+      "command": "STOP",
+      "reason": "STOPPED"
+    },
+    {
+      "sequence": 2,
+      "accepted": true,
+      "command": "STOP",
+      "reason": "STOPPED"
+    },
+    {
+      "sequence": 3,
+      "accepted": true,
+      "command": "STOP",
+      "reason": "STOPPED"
+    },
+    {
+      "sequence": 4,
+      "accepted": true,
+      "command": "STOP",
+      "reason": "STOPPED"
+    },
+    {
+      "sequence": 5,
+      "accepted": true,
+      "command": "STOP",
+      "reason": "STOPPED"
+    }
+  ]
+}

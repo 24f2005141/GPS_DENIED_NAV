@@ -1,0 +1,18 @@
+robot_supervisor:
+  ros__parameters:
+    allow_physical_control: false  # Requires explicit commissioning edit and service enable.
+    max_speed_permille: 100
+    forward_speed_permille: 50
+    turn_speed_permille: 40
+    allow_reverse: false
+    input_stale_s: 0.5
+    ack_timeout_s: 0.5
+    command_period_s: 0.1
+robot_transport:
+  ros__parameters:
+    serial_port: /dev/ttyACM0  # Discover actual USB device before editing.
+    baud_rate: 115200
+    reconnect_s: 1.0
+    ack_timeout_s: 0.4
+    command_timeout_s: 0.35
+    motor_commands_enabled: false  # Second independent default-off gate.
